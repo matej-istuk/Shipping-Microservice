@@ -1,0 +1,6 @@
+#FileLock
+#Wed Jun 07 16:04:30 UTC 2023
+hostName=pop-os.localdomain
+id=188969a3b5b2a584bae44655c2dafb598106b90f9e8
+method=file
+server=127.0.1.1\:10990
